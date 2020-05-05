@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue Oct 22 10:02:04 COT 2019
+org.eclipse.jst.jee.server\:/binary\:D\:\\idea3\\Spring_MVC_Ejemplo1\\WebContent\\WEB-INF\\lib\\spring-web-5.1.4.RELEASE-sources.jar=D\:\\Tomcat 9.0\\wtpwebapps\\Spring_MVC_Ejemplo1\\WEB-INF\\lib\\spring-web-5.1.4.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:Spring_MVC_Ejemplo1=D\:\\Tomcat 9.0\\wtpwebapps\\Spring_MVC_Ejemplo1
+org.eclipse.jst.jee.server\:/binary\:D\:\\idea3\\Spring_MVC_Ejemplo1\\WebContent\\WEB-INF\\lib\\spring-web-5.1.4.RELEASE.jar=D\:\\Tomcat 9.0\\wtpwebapps\\Spring_MVC_Ejemplo1\\WEB-INF\\lib\\spring-web-5.1.4.RELEASE.jar

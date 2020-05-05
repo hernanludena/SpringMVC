@@ -1,0 +1,27 @@
+
+Y
+)WebContent/WEB-INF/spring_mvc_servlet.xml,8\e\8e42e16efc940fdfc5e5978f07bdc9e0ba2044c0
+J
+WebContent/WEB-INF/web.xml,c\5\c510f2eaee6faa7ce096cfb89f5dcfc359c14265
+Y
+)WebContent/WEB-INF/view/paginaEjemplo.jsp,0\c\0c76601943489c7dab8ea291ba91d2e391bee8de
+P
+ src/com/pruebas/Controlador.java,9\5\951869c10f0550cd6576e0c45bfd5030b4b68c09
+[
++src/com/pruebas/HolaAlumnosControlador.java,5\f\5f35e77d4d3f24da27fe36cb09219bf65887d8fc
+a
+1WebContent/WEB-INF/view/HolaAlumnosFormulario.jsp,2\6\265c1975191be7f31bb4204b49a44f0d6898f9be
+]
+-WebContent/WEB-INF/view/HolaAlumnosSpring.jsp,4\d\4db4a7a1470de4f7829362efe0f351eb45bab284
+X
+(WebContent/recursos/estilos/miestilo.css,1\e\1eedb83f76f07c0141fd18bb2e444fc0b24ce89d
+U
+%src/com/pruebas/TirarControlador.java,8\e\8e0a441b236732e5c106808bfe181efda9eaaf73
+K
+src/com/pruebas/Alumno.java,5\0\5093f5dcb6b9bd36398678291af77d5048099421
+d
+4WebContent/WEB-INF/view/alumnoRegistroFormulario.jsp,6\0\60617c1fc3180b448ef9787706a24fb0a7a327fc
+j
+:WebContent/WEB-INF/view/confirmacionRegistroFormulario.jsp,6\2\6240e6bbd7ca956d2eab99f7137859bea7f6e3ac
+U
+%src/com/pruebas/AlumnoController.java,a\7\a74e02b93a6a2242d5f2962b1ab7d98a4775ffe1

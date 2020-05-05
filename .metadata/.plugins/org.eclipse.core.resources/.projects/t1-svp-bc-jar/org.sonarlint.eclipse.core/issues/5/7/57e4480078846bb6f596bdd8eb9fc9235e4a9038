@@ -1,0 +1,59 @@
+
+€squid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã½€ÁH¼RMINORZ
+CODE_SMELL
+…squid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú•±ÆÿÿÿÿÿH¾RMINORZ
+CODE_SMELL
+€squid:S1192s"KDefine a constant instead of duplicating this literal "FUNDCANCEL" 4 times.(ı—ïöÿÿÿÿÿH¯RCRITICALZ
+CODE_SMELL
+squid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥«¥ÎHºRMINORZ
+CODE_SMELL
+asquid:S1066F"/Merge this if statement with the enclosing one.(àäÄùÿÿÿÿH°RMAJORZ
+CODE_SMELL
+„squid:S001173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Üı˜øÿÿÿÿH·RMINORZ
+CODE_SMELL
+squid:S1192¼"KDefine a constant instead of duplicating this literal "fwdTXCODE" 12 times.(ç”â¬ùÿÿÿÿH®RCRITICALZ
+CODE_SMELL
+csquid:S1905µ"0Remove this unnecessary cast to "ContactDevice".(ØÕÂÍüÿÿÿÿH´RMINORZ
+CODE_SMELL
+€squid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÄ„³HÀRMINORZ
+CODE_SMELL
+„squid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú•±ÆÿÿÿÿÿH»RMINORZ
+CODE_SMELL
+gsquid:S1161;":Add the "@Override" annotation above this method signature(¥«¥ÎHÅRMAJORZ
+CODE_SMELL
+zsquid:S1192`"JDefine a constant instead of duplicating this literal "INSC_FACT" 4 times.(‰ÛÄäH­RCRITICALZ
+CODE_SMELL
+squid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±É^HÂRMINORZ
+CODE_SMELL
+…squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“‘©ñûÿÿÿÿH¿RMINORZ
+CODE_SMELL
+lsquid:S11613":Add the "@Override" annotation above this method signature(¾Üı˜øÿÿÿÿHÄRMAJORZ
+CODE_SMELL
+hsquid:S1161‡":Add the "@Override" annotation above this method signature(ã½€ÁHÆRMAJORZ
+CODE_SMELL
+€squid:S00117‡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã½€ÁH½RMINORZ
+CODE_SMELL
+‚squid:S3776;"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¥«¥ÎHµRCRITICALZ
+CODE_SMELL
+^squid:S1135."2Complete the task associated to this TODO comment.(œ¼©H²RINFOZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(¦Ù¥ıÿÿÿÿH±RINFOZ
+CODE_SMELL
+squid:S00117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±É^HÁRMINORZ
+CODE_SMELL
+…squid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¨ˆ‰ıÿÿÿÿHÃRMINORZ
+CODE_SMELL
+hsquid:S1161¡":Add the "@Override" annotation above this method signature(áÄ„³HÈRMAJORZ
+CODE_SMELL
+]squid:S1905³"*Remove this unnecessary cast to "Contact".(ÔœÙùÿÿÿÿH³RMINORZ
+CODE_SMELL
+squid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥«¥ÎH¹RMINORZ
+CODE_SMELL
+\squid:EmptyStatementUsageCheck>"Remove this empty statement.(¦¸”H¬RMINORZ
+CODE_SMELL
+msquid:S1161":Add the "@Override" annotation above this method signature(“‘©ñûÿÿÿÿHÇRMAJORZ
+CODE_SMELL
+„squid:S001174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú•±ÆÿÿÿÿÿH¸RMINORZ
+CODE_SMELL
+„squid:S001173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾Üı˜øÿÿÿÿH¶RMINORZ
+CODE_SMELL

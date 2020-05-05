@@ -1,0 +1,19 @@
+
+^squid:S1135#"2Complete the task associated to this TODO comment.(Ú¤ü–H‚RINFOZ
+CODE_SMELL
+csquid:S1135$"2Complete the task associated to this TODO comment.(ŞÓÚÛúÿÿÿÿHƒRINFOZ
+CODE_SMELL
+‡squid:S3776&"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ôÏ÷ÔûÿÿÿÿH„RCRITICALZ
+CODE_SMELL
+psquid:CallToDeprecatedMethod0"2Remove this use of "connection"; it is deprecated.(Ìµ˜H…RMINORZ
+CODE_SMELL
+psquid:CallToDeprecatedMethod@"2Remove this use of "connection"; it is deprecated.(’·Ÿ£H†RMINORZ
+CODE_SMELL
+usquid:CallToDeprecatedMethodI"2Remove this use of "connection"; it is deprecated.(¯ù¹€úÿÿÿÿH‡RMINORZ
+CODE_SMELL
+„squid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÏ÷ÔûÿÿÿÿHˆRMINORZ
+CODE_SMELL
+„squid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÏ÷ÔûÿÿÿÿH‰RMINORZ
+CODE_SMELL
+squid:S00117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İÌ¤÷HŠRMINORZ
+CODE_SMELL

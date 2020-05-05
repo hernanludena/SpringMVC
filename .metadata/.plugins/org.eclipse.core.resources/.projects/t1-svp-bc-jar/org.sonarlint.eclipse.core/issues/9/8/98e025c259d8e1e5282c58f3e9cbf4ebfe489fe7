@@ -1,0 +1,103 @@
+
+ùsquid:S1319N"qThe type of the "params" object should be an interface such as "List" rather than the implementation "ArrayList".(é˛ÌtHæRMINORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine¿"<This block of commented-out lines of code should be removed.(’‚˚„HØRMAJORZ
+CODE_SMELL
+z$squid:AssignmentInSubExpressionCheck©".Extract the assignment out of this expression.(ïëã˚ˇˇˇˇˇH£RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(îﬁ˛Û˚ˇˇˇˇH®RMAJORZ
+CODE_SMELL
+z$squid:AssignmentInSubExpressionChecké".Extract the assignment out of this expression.(ïëã˚ˇˇˇˇˇH°RMAJORZ
+CODE_SMELL
+y$squid:AssignmentInSubExpressionCheckm".Extract the assignment out of this expression.(ì≤î¯¸ˇˇˇˇH¢RMAJORZ
+CODE_SMELL
+£squid:S1319~"qThe type of the "params" object should be an interface such as "List" rather than the implementation "ArrayList".(•Ù≠ˆ¯ˇˇˇˇH∫RMINORZ
+CODE_SMELL
+zsquid:S00112˘"FDefine and throw a dedicated exception instead of using a generic one.(í€Æ˘˙ˇˇˇˇH»RMAJORZ
+CODE_SMELL
+ásquid:S1192X"XDefine a constant instead of duplicating this literal "UPDATE BOLP_USERS SET " 10 times.(ˇú†HúRCRITICALZ
+CODE_SMELL
+~squid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(îﬁ˛Û˚ˇˇˇˇH∞RMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(’‚˚„H≠RMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine˚"<This block of commented-out lines of code should be removed.(’‚˚„HµRMAJORZ
+CODE_SMELL
+§squid:S1319°"qThe type of the "params" object should be an interface such as "List" rather than the implementation "ArrayList".(Ä“÷Æ¯ˇˇˇˇH∏RMINORZ
+CODE_SMELL
+Qsquid:S2129£"Remove this "Long" constructor(≤·äù¸ˇˇˇˇH…RMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(’‚˚„H´RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine¯"<This block of commented-out lines of code should be removed.(îﬁ˛Û˚ˇˇˇˇH∂RMAJORZ
+CODE_SMELL
+Xsquid:S1172:"&Remove these unused method parameters.(ü˜À◊˝ˇˇˇˇH¬RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine˚"<This block of commented-out lines of code should be removed.(îﬁ˛Û˚ˇˇˇˇH≤RMAJORZ
+CODE_SMELL
+üsquid:S1319ª"qThe type of the "params" object should be an interface such as "List" rather than the implementation "ArrayList".(§∑…∑HπRMINORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLineù"<This block of commented-out lines of code should be removed.(’‚˚„H±RMAJORZ
+CODE_SMELL
+Tsquid:S2129√"!Remove this "Integer" constructor(˝Œ∂†¯ˇˇˇˇH RMAJORZ
+CODE_SMELL
+Åsquid:S1192§"IDefine a constant instead of duplicating this literal "USERTYPE" 3 times.(˝ö≤Ë8ËÍÅ∞˜,HÀRCRITICALZ
+CODE_SMELL
+üsquid:S1319ˆ"qThe type of the "params" object should be an interface such as "List" rather than the implementation "ArrayList".(ƒˆâ¢HΩRMINORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(¥ˆ†ùH∑RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(’˚Ô˚ˇˇˇˇHßRMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(’‚˚„H≥RMAJORZ
+CODE_SMELL
+àsquid:S1192]"SDefine a constant instead of duplicating this literal " WHERE USERID = ?" 10 times.(¢èµà˚ˇˇˇˇHùRCRITICALZ
+CODE_SMELL
+z$squid:AssignmentInSubExpressionCheckÜ".Extract the assignment out of this expression.(ïëã˚ˇˇˇˇˇHüRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineΩ"<This block of commented-out lines of code should be removed.(îﬁ˛Û˚ˇˇˇˇH¶RMAJORZ
+CODE_SMELL
+üsquid:S1319◊"qThe type of the "params" object should be an interface such as "List" rather than the implementation "ArrayList".(»‚‡∂HøRMINORZ
+CODE_SMELL
+csquid:S1481<"6Remove this unused "preparedStatement" local variable.(∆√´™H¿RMINORZ
+CODE_SMELL
+z$squid:AssignmentInSubExpressionCheck≈".Extract the assignment out of this expression.(ì≤î¯¸ˇˇˇˇH•RMAJORZ
+CODE_SMELL
+`squid:S1481=".Remove this unused "resultSet" local variable.(õ˜åú˙ˇˇˇˇH¡RMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(îﬁ˛Û˚ˇˇˇˇHÆRMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine¶"<This block of commented-out lines of code should be removed.(’‚˚„H©RMAJORZ
+CODE_SMELL
+zsquid:S00112°"FDefine and throw a dedicated exception instead of using a generic one.(Ä“÷Æ¯ˇˇˇˇH≈RMAJORZ
+CODE_SMELL
+§squid:S1319€"qThe type of the "params" object should be an interface such as "List" rather than the implementation "ArrayList".(˛∂‚õ¯ˇˇˇˇHºRMINORZ
+CODE_SMELL
+ysquid:S00112:"FDefine and throw a dedicated exception instead of using a generic one.(ü˜À◊˝ˇˇˇˇHƒRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(îﬁ˛Û˚ˇˇˇˇH™RMAJORZ
+CODE_SMELL
+z$squid:AssignmentInSubExpressionCheckÂ".Extract the assignment out of this expression.(ïëã˚ˇˇˇˇˇH†RMAJORZ
+CODE_SMELL
+ysquid:S001121"FDefine and throw a dedicated exception instead of using a generic one.(”¥îóˇˇˇˇˇH∆RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineŸ"<This block of commented-out lines of code should be removed.(îﬁ˛Û˚ˇˇˇˇH¥RMAJORZ
+CODE_SMELL
+ssquid:S00112N"FDefine and throw a dedicated exception instead of using a generic one.(é˛ÌtH«RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineö"<This block of commented-out lines of code should be removed.(îﬁ˛Û˚ˇˇˇˇH¨RMAJORZ
+CODE_SMELL
+{squid:UnusedPrivateMethod:";Remove this unused private "executeSelectStatement" method.(ü˜À◊˝ˇˇˇˇHöRMAJORZ
+CODE_SMELL
+∏%squid:RedundantThrowsDeclarationCheck:"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ü˜À◊˝ˇˇˇˇHõRMINORZ
+CODE_SMELL
+z$squid:AssignmentInSubExpressionCheckË".Extract the assignment out of this expression.(ïëã˚ˇˇˇˇˇHûRMAJORZ
+CODE_SMELL
+usquid:S00112ÿ"FDefine and throw a dedicated exception instead of using a generic one.(´ÈÕ˙H√RMAJORZ
+CODE_SMELL
+squid:S1192¢"GDefine a constant instead of duplicating this literal "USERID" 3 times.(±ˇ∂ÿ8ËÍÅ∞˜,HÃRCRITICALZ
+CODE_SMELL
+z$squid:AssignmentInSubExpressionCheck…".Extract the assignment out of this expression.(ïëã˚ˇˇˇˇˇH§RMAJORZ
+CODE_SMELL
+§squid:S1319ò"qThe type of the "params" object should be an interface such as "List" rather than the implementation "ArrayList".(πñ±ÿˇˇˇˇˇHªRMINORZ
+CODE_SMELL

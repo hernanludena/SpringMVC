@@ -1,0 +1,212 @@
+
+šjavascript:S4165
+"bReview this useless assignment: "suma" already holds the assigned value along all execution paths.(úˆŞÏøÿÿÿÿHŒ4RMAJORZ
+CODE_SMELL
+šjavascript:S2692»	"bThis check ignores index 0; consider using 'includes' method to make this check safe and explicit.(»ÁˆıÿÿÿÿH4RMAJORZ
+CODE_SMELL
+Zjavascript:S1442" Remove this usage of alert(...).(ó©‰¾ÿÿÿÿÿH4RMINORZVULNERABILITY
+Vjavascript:S1442Ì" Remove this usage of alert(...).(¦é£µH4RMINORZVULNERABILITY
+]javascript:S1442î""Remove this usage of confirm(...).(·„ŞÇıÿÿÿÿH4RMINORZVULNERABILITY
+[javascript:S1442â" Remove this usage of alert(...).(‘º×áşÿÿÿÿH‘4RMINORZVULNERABILITY
+Vjavascript:S1442é" Remove this usage of alert(...).(¦é£µH’4RMINORZVULNERABILITY
+[javascript:S1442ÿ" Remove this usage of alert(...).(Ìû­üÿÿÿÿH“4RMINORZVULNERABILITY
+[javascript:S1442–" Remove this usage of alert(...).(Ìû­üÿÿÿÿH”4RMINORZVULNERABILITY
+[javascript:S1442¾" Remove this usage of alert(...).(‘º×áşÿÿÿÿH•4RMINORZVULNERABILITY
+Vjavascript:S1442Å" Remove this usage of alert(...).(¦é£µH–4RMINORZVULNERABILITY
+[javascript:S1442ğ" Remove this usage of alert(...).(°ËçøÿÿÿÿH—4RMINORZVULNERABILITY
+[javascript:S1442¶" Remove this usage of alert(...).(À€¦ëÿÿÿÿÿH˜4RMINORZVULNERABILITY
+Vjavascript:S1442ó" Remove this usage of alert(...).(»¦ÉéH™4RMINORZVULNERABILITY
+[javascript:S1442ı" Remove this usage of alert(...).(Š„ÓøÿÿÿÿHš4RMINORZVULNERABILITY
+]javascript:S1442‚""Remove this usage of confirm(...).(€ã¿‚úÿÿÿÿH›4RMINORZVULNERABILITY
+[javascript:S1442ˆ" Remove this usage of alert(...).(Š„ÓøÿÿÿÿHœ4RMINORZVULNERABILITY
+Vjavascript:S1442" Remove this usage of alert(...).(„ù°”H4RMINORZVULNERABILITY
+]javascript:S1442™""Remove this usage of confirm(...).(”ì§ÀùÿÿÿÿH4RMINORZVULNERABILITY
+Vjavascript:S1442" Remove this usage of alert(...).(ÅØÕÊHŸ4RMINORZVULNERABILITY
+[javascript:S1442ª" Remove this usage of alert(...).(“È»øÿÿÿÿH 4RMINORZVULNERABILITY
+[javascript:S1442º" Remove this usage of alert(...).(İÔñÙÿÿÿÿÿH¡4RMINORZVULNERABILITY
+[javascript:S1442¾" Remove this usage of alert(...).(Ë…±øÿÿÿÿH¢4RMINORZVULNERABILITY
+javascript:S2814*"JRename "arregloId" as this name is already used in declaration at line 39.(ğŒ–ûÿÿÿÿH£4RMAJORZ
+CODE_SMELL
+|javascript:S28140"JRename "arregloId" as this name is already used in declaration at line 39.(ê”™H¤4RMAJORZ
+CODE_SMELL
+|javascript:S28143"JRename "arregloId" as this name is already used in declaration at line 39.(ê”™H¥4RMAJORZ
+CODE_SMELL
+javascript:S28149"JRename "arregloId" as this name is already used in declaration at line 39.(Ö÷÷íıÿÿÿÿH¦4RMAJORZ
+CODE_SMELL
+javascript:S2814<"JRename "arregloId" as this name is already used in declaration at line 39.(Ö÷÷íıÿÿÿÿH§4RMAJORZ
+CODE_SMELL
+javascript:S2814B"JRename "arregloId" as this name is already used in declaration at line 39.(µé¯£ıÿÿÿÿH¨4RMAJORZ
+CODE_SMELL
+javascript:S2814E"JRename "arregloId" as this name is already used in declaration at line 39.(µé¯£ıÿÿÿÿH©4RMAJORZ
+CODE_SMELL
+javascript:S2814K"JRename "arregloId" as this name is already used in declaration at line 39.(‡ıÂÍÿÿÿÿÿHª4RMAJORZ
+CODE_SMELL
+javascript:S2814N"JRename "arregloId" as this name is already used in declaration at line 39.(‡ıÂÍÿÿÿÿÿH«4RMAJORZ
+CODE_SMELL
+javascript:S2814T"JRename "arregloId" as this name is already used in declaration at line 39.(Ü§”ÓøÿÿÿÿH¬4RMAJORZ
+CODE_SMELL
+javascript:S2814]"JRename "arregloId" as this name is already used in declaration at line 39.(Ü§”ÓøÿÿÿÿH­4RMAJORZ
+CODE_SMELL
+Œjavascript:S2814˜"TRename "arregloDeshabilita" as this name is already used in declaration at line 655.(‘È’¬üÿÿÿÿH®4RMAJORZ
+CODE_SMELL
+ƒjavascript:S2814á"KRename "arregloId" as this name is already used in declaration at line 727.(Ü§”ÓøÿÿÿÿH¯4RMAJORZ
+CODE_SMELL
+ƒjavascript:S2814’"KRename "arregloId" as this name is already used in declaration at line 727.(ğŒ–ûÿÿÿÿH°4RMAJORZ
+CODE_SMELL
+ƒjavascript:S2814–"KRename "arregloId" as this name is already used in declaration at line 727.(ğŒ–ûÿÿÿÿH±4RMAJORZ
+CODE_SMELL
+~javascript:S2814"KRename "arregloId" as this name is already used in declaration at line 727.(ê”™H²4RMAJORZ
+CODE_SMELL
+~javascript:S2814¢"KRename "arregloId" as this name is already used in declaration at line 727.(ê”™H³4RMAJORZ
+CODE_SMELL
+ƒjavascript:S2814¨"KRename "arregloId" as this name is already used in declaration at line 727.(Ö÷÷íıÿÿÿÿH´4RMAJORZ
+CODE_SMELL
+ƒjavascript:S2814¬"KRename "arregloId" as this name is already used in declaration at line 727.(Ö÷÷íıÿÿÿÿHµ4RMAJORZ
+CODE_SMELL
+ƒjavascript:S2814²"KRename "arregloId" as this name is already used in declaration at line 727.(µé¯£ıÿÿÿÿH¶4RMAJORZ
+CODE_SMELL
+ƒjavascript:S2814¶"KRename "arregloId" as this name is already used in declaration at line 727.(µé¯£ıÿÿÿÿH·4RMAJORZ
+CODE_SMELL
+ƒjavascript:S2814Â"KRename "arregloId" as this name is already used in declaration at line 727.(‡ıÂÍÿÿÿÿÿH¸4RMAJORZ
+CODE_SMELL
+ƒjavascript:S2814Æ"KRename "arregloId" as this name is already used in declaration at line 727.(‡ıÂÍÿÿÿÿÿH¹4RMAJORZ
+CODE_SMELL
+ƒjavascript:S2814¶"KRename "arregloId" as this name is already used in declaration at line 301.(Ü§”ÓøÿÿÿÿHº4RMAJORZ
+CODE_SMELL
+}javascript:S2814ê"KRename "arregloId" as this name is already used in declaration at line 858.(’ˆìmH»4RMAJORZ
+CODE_SMELL
+ƒjavascript:S2814’"KRename "arregloId" as this name is already used in declaration at line 649.(Ü§”ÓøÿÿÿÿH¼4RMAJORZ
+CODE_SMELL
+|javascript:S2814À
+"DRename "i" as this name is already used in declaration at line 1340.(èøğ¨øÿÿÿÿH½4RMAJORZ
+CODE_SMELL
+Œjavascript:S2814Ÿ"TRename "arregloDeshabilita" as this name is already used in declaration at line 269.(‘È’¬üÿÿÿÿH¾4RMAJORZ
+CODE_SMELL
+Šjavascript:S2814c"SRename "arregloDeshabilita" as this name is already used in declaration at line 90.(‘È’¬üÿÿÿÿH¿4RMAJORZ
+CODE_SMELL
+Œjavascript:S2814æ"TRename "arregloDeshabilita" as this name is already used in declaration at line 733.(‘È’¬üÿÿÿÿHÀ4RMAJORZ
+CODE_SMELL
+ºjavascript:S2681Ò"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(‡Ÿ×…HÁ4RMAJORZ
+CODE_SMELL
+zjavascript:UnusedVariableè"9Remove the declaration of the unused 'campo205' variable.(ÿŒ²ÿÿÿÿÿHÂ4RMINORZ
+CODE_SMELL
+yjavascript:UnusedVariableæ">Remove the declaration of the unused 'tipoDocumento' variable.(àöÖHÃ4RMINORZ
+CODE_SMELL
+Šjavascript:UnusedVariableø"IRemove the declaration of the unused 'codigoFormularioTemporal' variable.(³ëÂµÿÿÿÿÿHÄ4RMINORZ
+CODE_SMELL
+yjavascript:UnusedVariable‚">Remove the declaration of the unused 'tipoDocumento' variable.(àöÖHÅ4RMINORZ
+CODE_SMELL
+zjavascript:UnusedVariableç"9Remove the declaration of the unused 'campo204' variable.(Ğ˜œôıÿÿÿÿHÆ4RMINORZ
+CODE_SMELL
+Šjavascript:UnusedVariable…"IRemove the declaration of the unused 'codigoFormularioTemporal' variable.(³ëÂµÿÿÿÿÿHÇ4RMINORZ
+CODE_SMELL
+rjavascript:S1854‚"@Remove this useless assignment to local variable "tipoDocumento"(àöÖHÈ4RMAJORZ
+CODE_SMELL
+ƒjavascript:S1854…"KRemove this useless assignment to local variable "codigoFormularioTemporal"(³ëÂµÿÿÿÿÿHÉ4RMAJORZ
+CODE_SMELL
+ƒjavascript:S1854ø"KRemove this useless assignment to local variable "codigoFormularioTemporal"(³ëÂµÿÿÿÿÿHÊ4RMAJORZ
+CODE_SMELL
+sjavascript:S1854ç";Remove this useless assignment to local variable "campo204"(Ğ˜œôıÿÿÿÿHË4RMAJORZ
+CODE_SMELL
+rjavascript:S1854æ"@Remove this useless assignment to local variable "tipoDocumento"(àöÖHÌ4RMAJORZ
+CODE_SMELL
+sjavascript:S1854è";Remove this useless assignment to local variable "campo205"(ÿŒ²ÿÿÿÿÿHÍ4RMAJORZ
+CODE_SMELL
+javascript:S2703Ÿ	"hAdd the "let", "const" or "var" keyword to this declaration of "validarRazonSocial" to make it explicit.(Ÿ§½§HÎ4RBLOCKERZ
+CODE_SMELL
+Ÿjavascript:S2703²"jAdd the "let", "const" or "var" keyword to this declaration of "habilitarCamposCarga" to make it explicit.(Ò²Ë½HÏ4RBLOCKERZ
+CODE_SMELL
+javascript:S2703©	"jAdd the "let", "const" or "var" keyword to this declaration of "validarNumeroDecimal" to make it explicit.(Œ±¯\HĞ4RBLOCKERZ
+CODE_SMELL
+©javascript:S2703¾"oAdd the "let", "const" or "var" keyword to this declaration of "cargarDeclaracionTemporal" to make it explicit.(Ü»òûüÿÿÿÿHÑ4RBLOCKERZ
+CODE_SMELL
+¥javascript:S2703«"kAdd the "let", "const" or "var" keyword to this declaration of "validarCamposFormulas" to make it explicit.(·Ã»®ıÿÿÿÿHÒ4RBLOCKERZ
+CODE_SMELL
+˜javascript:S2703À"cAdd the "let", "const" or "var" keyword to this declaration of "validarCedula" to make it explicit.(‡²â©HÓ4RBLOCKERZ
+CODE_SMELL
+¤javascript:S2703ç"jAdd the "let", "const" or "var" keyword to this declaration of "cargarTipoDeclarante" to make it explicit.(©å÷şÿÿÿÿHÔ4RBLOCKERZ
+CODE_SMELL
+œjavascript:S2703¹	"gAdd the "let", "const" or "var" keyword to this declaration of "validarPasteValor" to make it explicit.(‹ ÛŞHÕ4RBLOCKERZ
+CODE_SMELL
+¥javascript:S2703Ü	"kAdd the "let", "const" or "var" keyword to this declaration of "redondearDosDecimales" to make it explicit.(¦âµÿÿÿÿÿHÖ4RBLOCKERZ
+CODE_SMELL
+¤javascript:S2703"oAdd the "let", "const" or "var" keyword to this declaration of "validarCamposVaciosSubmit" to make it explicit.(öåÕ­H×4RBLOCKERZ
+CODE_SMELL
+¨javascript:S2703”
+"nAdd the "let", "const" or "var" keyword to this declaration of "calcularObligacionAPagar" to make it explicit.(µÊÙ§ûÿÿÿÿHØ4RBLOCKERZ
+CODE_SMELL
+ªjavascript:S2703î	"pAdd the "let", "const" or "var" keyword to this declaration of "calcularObligacionGenerada" to make it explicit.(¾é«×øÿÿÿÿHÙ4RBLOCKERZ
+CODE_SMELL
+¡javascript:S2703×"lAdd the "let", "const" or "var" keyword to this declaration of "crearEnlacesEmergentes" to make it explicit.(Ş’…”HÚ4RBLOCKERZ
+CODE_SMELL
+§javascript:S2703ß"mAdd the "let", "const" or "var" keyword to this declaration of "obtenerMsgValCampoVacio" to make it explicit.(¤ü¾şÿÿÿÿHÛ4RBLOCKERZ
+CODE_SMELL
+§javascript:S2703ñ
+"mAdd the "let", "const" or "var" keyword to this declaration of "calcularDatosFormulario" to make it explicit.(óòĞ”úÿÿÿÿHÜ4RBLOCKERZ
+CODE_SMELL
+javascript:S2703û"hAdd the "let", "const" or "var" keyword to this declaration of "deshabilitarCampos" to make it explicit.(Ç÷›²Hİ4RBLOCKERZ
+CODE_SMELL
+javascript:S2703Š"cAdd the "let", "const" or "var" keyword to this declaration of "encerarCampos" to make it explicit.(ûş‰úÿÿÿÿHŞ4RBLOCKERZ
+CODE_SMELL
+javascript:S2703Š	"cAdd the "let", "const" or "var" keyword to this declaration of "validarEntero" to make it explicit.(Éß“¶ÿÿÿÿÿHß4RBLOCKERZ
+CODE_SMELL
+›javascript:S2703é"fAdd the "let", "const" or "var" keyword to this declaration of "validarPasaporte" to make it explicit.(ß çHà4RBLOCKERZ
+CODE_SMELL
+–javascript:S2703”"\Add the "let", "const" or "var" keyword to this declaration of "psplit" to make it explicit.(ÇÈÀøûÿÿÿÿHá4RBLOCKERZ
+CODE_SMELL
+‘javascript:S2703ö"WAdd the "let", "const" or "var" keyword to this declaration of "i" to make it explicit.(“Í²ùøÿÿÿÿHâ4RBLOCKERZ
+CODE_SMELL
+javascript:S2703¹
+"cAdd the "let", "const" or "var" keyword to this declaration of "setValorCuota" to make it explicit.(çåòíúÿÿÿÿHã4RBLOCKERZ
+CODE_SMELL
+”javascript:S2703²"`Add the "let", "const" or "var" keyword to this declaration of "validarRUC" to make it explicit.(é™³Hä4RBLOCKERZ
+CODE_SMELL
+¢javascript:S2703¢"mAdd the "let", "const" or "var" keyword to this declaration of "deshabilitarCamposCarga" to make it explicit.(šÉÃóHå4RBLOCKERZ
+CODE_SMELL
+javascript:S2703”	"dAdd the "let", "const" or "var" keyword to this declaration of "limitarDecimal" to make it explicit.(«è˜»şÿÿÿÿHæ4RBLOCKERZ
+CODE_SMELL
+¤javascript:S2703¦"jAdd the "let", "const" or "var" keyword to this declaration of "obtenerValidacionRUC" to make it explicit.(Á°ŸùÿÿÿÿHç4RBLOCKERZ
+CODE_SMELL
+˜javascript:S2703É
+"^Add the "let", "const" or "var" keyword to this declaration of "truncate" to make it explicit.(ç»õƒıÿÿÿÿHè4RBLOCKERZ
+CODE_SMELL
+ javascript:S2703â	"kAdd the "let", "const" or "var" keyword to this declaration of "calcularBaseImponible" to make it explicit.(Ôİ·øHé4RBLOCKERZ
+CODE_SMELL
+ javascript:S2703Î"kAdd the "let", "const" or "var" keyword to this declaration of "gestionDeclaracionTmp" to make it explicit.(ª§ÀHê4RBLOCKERZ
+CODE_SMELL
+javascript:S2703±"iAdd the "let", "const" or "var" keyword to this declaration of "validarCampoFormula" to make it explicit.(Äç¾æHë4RBLOCKERZ
+CODE_SMELL
+˜javascript:S2703§
+"cAdd the "let", "const" or "var" keyword to this declaration of "calcularCuota" to make it explicit.(×Æ‚ÓHì4RBLOCKERZ
+CODE_SMELL
+˜javascript:S2703Ô"^Add the "let", "const" or "var" keyword to this declaration of "noValida" to make it explicit.(…ÿ¸ıÿÿÿÿHí4RBLOCKERZ
+CODE_SMELL
+javascript:S2703Â"dAdd the "let", "const" or "var" keyword to this declaration of "campoVacioCero" to make it explicit.(ïÜñ‰úÿÿÿÿHî4RBLOCKERZ
+CODE_SMELL
+œjavascript:S2703˜"bAdd the "let", "const" or "var" keyword to this declaration of "vaciarCampos" to make it explicit.(åº‡ôşÿÿÿÿHï4RBLOCKERZ
+CODE_SMELL
+£javascript:S2703Ä	"iAdd the "let", "const" or "var" keyword to this declaration of "validarNumeroEntero" to make it explicit.(É ÁîøÿÿÿÿHğ4RBLOCKERZ
+CODE_SMELL
+ javascript:S2703Ë	"fAdd the "let", "const" or "var" keyword to this declaration of "completarDecimal" to make it explicit.(«ÔßçøÿÿÿÿHñ4RBLOCKERZ
+CODE_SMELL
+¤javascript:S2703´	"oAdd the "let", "const" or "var" keyword to this declaration of "validarNumeroDecimalRegxp" to make it explicit.(ªÇÎĞHò4RBLOCKERZ
+CODE_SMELL
+¡javascript:S2703Â"lAdd the "let", "const" or "var" keyword to this declaration of "gestionarContribuyente" to make it explicit.(–Ñ×ÿHó4RBLOCKERZ
+CODE_SMELL
+šjavascript:S2703ø"eAdd the "let", "const" or "var" keyword to this declaration of "resultadoCedula" to make it explicit.(ûäŒğHô4RBLOCKERZ
+CODE_SMELL
+¤javascript:S2703Í
+"oAdd the "let", "const" or "var" keyword to this declaration of "modificarSeparadorDecimal" to make it explicit.(•“¼ˆHõ4RBLOCKERZ
+CODE_SMELL
+§javascript:S2703÷"mAdd the "let", "const" or "var" keyword to this declaration of "obtenerValidacionCedula" to make it explicit.(¿´—µøÿÿÿÿHö4RBLOCKERZ
+CODE_SMELL
+¡javascript:S2703ï"gAdd the "let", "const" or "var" keyword to this declaration of "validarCampoVacio" to make it explicit.(ÁÎ¥¾ûÿÿÿÿH÷4RBLOCKERZ
+CODE_SMELL
+ javascript:S2703Ò
+"fAdd the "let", "const" or "var" keyword to this declaration of "calcularAlCargar" to make it explicit.(”…¯•ûÿÿÿÿHø4RBLOCKERZ
+CODE_SMELL
+¯javascript:S2703™
+"uAdd the "let", "const" or "var" keyword to this declaration of "calcularExencionMontoObligacion" to make it explicit.(¯‘úÿÿÿÿHù4RBLOCKERZ
+CODE_SMELL
+ªjavascript:S2703•"pAdd the "let", "const" or "var" keyword to this declaration of "obtenerValidacionPasaporte" to make it explicit.(ƒıµƒÿÿÿÿÿHú4RBLOCKERZ
+CODE_SMELL

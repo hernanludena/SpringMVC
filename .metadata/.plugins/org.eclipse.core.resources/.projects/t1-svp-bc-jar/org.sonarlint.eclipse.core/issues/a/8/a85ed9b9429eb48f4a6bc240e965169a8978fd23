@@ -1,0 +1,25 @@
+
+nsquid:S3457I"AFormat specifiers should be used instead of string concatenation.(Çê½òH•RMAJORZ
+CODE_SMELL
+nsquid:S3457^"AFormat specifiers should be used instead of string concatenation.(˜ğƒ¤H–RMAJORZ
+CODE_SMELL
+gsquid:S1118":Add a private constructor to hide the implicit public one.(§Á¡ŒH—RMAJORZ
+CODE_SMELL
+psquid:S1155{">Use isEmpty() to check whether the collection is empty or not.(Õ©‡ıÿÿÿÿH˜RMINORZ
+CODE_SMELL
+`squid:S1172x".Remove this unused method parameter "request".(ùˆÅûÿÿÿÿH™RMAJORZ
+CODE_SMELL
+nsquid:S3457/"AFormat specifiers should be used instead of string concatenation.(ÙĞıÔHšRMAJORZ
+CODE_SMELL
+dsquid:S2629I"7Use the built-in formatting to construct this argument.(Çê½òH›RMAJORZ
+CODE_SMELL
+Œsquid:S1149$"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ø™ùÄHœRMAJORZ
+CODE_SMELL
+Œsquid:S1149U"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ø™ùÄHRMAJORZ
+CODE_SMELL
+‰squid:S2629/"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(ÙĞıÔHRMAJORZ
+CODE_SMELL
+ssquid:S3457}"AFormat specifiers should be used instead of string concatenation.(úÍ©¢ıÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+‰squid:S2629^"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(˜ğƒ¤H RMAJORZ
+CODE_SMELL

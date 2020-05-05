@@ -1,0 +1,33 @@
+
+squid:S1845"_Rename field "bpay" to prevent any misunderstanding/clash with field "BPAY" defined on line 26.(”â†HœÇRBLOCKERZ
+CODE_SMELL
+^squid:S00108“")Either remove or fill this block of code.(¬ÀáªøÿÿÿÿH§ÇRMAJORZ
+CODE_SMELL
+^squid:S00108™")Either remove or fill this block of code.(¬ÀáªøÿÿÿÿH©ÇRMAJORZ
+CODE_SMELL
+…squid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†×ªşÿÿÿÿH—ÇRMINORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(û›‰4HªÇRMAJORZ
+CODE_SMELL
+…squid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†×ªşÿÿÿÿH•ÇRMINORZ
+CODE_SMELL
+œsquid:S1845""gRename field "xferDest" to prevent any misunderstanding/clash with field "XFERDEST" defined on line 27.(ÎÁâÛüÿÿÿÿHÇRBLOCKERZ
+CODE_SMELL
+œsquid:S2178–"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ÆîÜÛøÿÿÿÿH¨ÇRBLOCKERZ
+CODE_SMELL
+…squid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†×ªşÿÿÿÿH˜ÇRMINORZ
+CODE_SMELL
+„squid:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(‹°‡’H¤ÇRCRITICALZ
+CODE_SMELL
+—squid:S2178"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(‘ôH¦ÇRBLOCKERZ
+CODE_SMELL
+•squid:S1845#"eRename field "xFerSrc" to prevent any misunderstanding/clash with field "XFERSRC" defined on line 28.(Ÿƒ¯HÇRBLOCKERZ
+CODE_SMELL
+]squid:S00108a")Either remove or fill this block of code.(¬ÀáªøÿÿÿÿH£ÇRMAJORZ
+CODE_SMELL
+dsquid:S1135"2Complete the task associated to this TODO comment.(›óôÒıÿÿÿÿH¢ÇRINFOZ
+CODE_SMELL
+dsquid:S1135"2Complete the task associated to this TODO comment.(¦Ù¥ıÿÿÿÿH™ÇRINFOZ
+CODE_SMELL
+…squid:S00117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†×ªşÿÿÿÿH–ÇRMINORZ
+CODE_SMELL

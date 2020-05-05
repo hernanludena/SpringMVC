@@ -1,0 +1,10 @@
+
+ƒsquid:S1192O"NDefine a constant instead of duplicating this literal "presentarAnio" 3 times.(ğµÅŸúÿÿÿÿH­3RCRITICALZ
+CODE_SMELL
+~squid:S22260"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(öÔùH±3RMAJORZBUG
+ƒsquid:S22261"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÅòáøÿÿÿÿH²3RMAJORZBUG
+ƒsquid:S22262"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(€²ªŸùÿÿÿÿH³3RMAJORZBUG
+usquid:HiddenFieldCheck­"<Rename "impuesto" which hides the field declared at line 50.(¿‰Ş‹H®3RMAJORZ
+CODE_SMELL
+}squid:S2226/"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(„Úğ6H°3RMAJORZBUG
+~squid:S2226."XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÄŞ…êH¯3RMAJORZBUG

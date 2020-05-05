@@ -1,0 +1,16 @@
+
+‡squid:S2975&"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯ÔÚ“ùÿÿÿÿHÛ/RBLOCKERZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(¦Ù¥ıÿÿÿÿHÜ/RINFOZ
+CODE_SMELL
+isquid:S22593"CA "NullPointerException" could be thrown; "clone" is nullable here.(É™ã‰Hİ/RMAJORZBUG
+asquid:S1948",Make "infGeneral" transient or serializable.(—–¥ÓüÿÿÿÿHŞ/RCRITICALZ
+CODE_SMELL
+asquid:S1948",Make "infConyuge" transient or serializable.(ê­³‚ùÿÿÿÿHß/RCRITICALZ
+CODE_SMELL
+\squid:S1948",Make "infLaboral" transient or serializable.(š¾´îHà/RCRITICALZ
+CODE_SMELL
+dsquid:S1948"/Make "infFinanciera" transient or serializable.(•½˜ÑøÿÿÿÿHá/RCRITICALZ
+CODE_SMELL
+bsquid:S1948"-Make "infContacto" transient or serializable.(†îŒıÿÿÿÿHâ/RCRITICALZ
+CODE_SMELL

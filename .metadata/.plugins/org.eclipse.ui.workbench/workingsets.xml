@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543517984986_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543517984986_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543518162195_3" label="t1-svp-bc-parent-pom" name="t1-svp-bc-parent-pom">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/t1-svp-bc-ear" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/svp-bancolombia" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/t1-svp-bc-jar" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/t1-svp-bc-war" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1544045361434_4" label="DeclaracionesInternet" name="DeclaracionesInternet">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rec-declaraciones-internet-jsf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rec-declaraciones-internet-ejb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rec-declaraciones-internet" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rec-declaraciones-internet-ejb3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rec-declaraciones-internet-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/DeclaracionesInternet" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1543517994318_2" label="Window Working Set" name="Aggregate for window 1543517994317"/>
+</workingSetManager>

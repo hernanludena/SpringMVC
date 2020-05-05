@@ -1,0 +1,15 @@
+
+_squid:UselessParenthesesCheck6"!Remove these useless parentheses.(×‡ÀH”RMAJORZ
+CODE_SMELL
+tsquid:UnusedPrivateMethod5"4Remove this unused private "isBirthDayField" method.(¶Â–›úÿÿÿÿH•RMAJORZ
+CODE_SMELL
+‘squid:S3008"_Rename this field "BANK_STANDARD_TXCODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—á¿çùÿÿÿÿH–RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(²ÔÞÐúÿÿÿÿH—RMAJORZ
+CODE_SMELL
+¶squid:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßÂÑ¼úÿÿÿÿH˜RCRITICALZ
+CODE_SMELL
+±squid:S1186("€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™çÑªH™RCRITICALZ
+CODE_SMELL
+¶squid:S1186/"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ñºœüÿÿÿÿHšRCRITICALZ
+CODE_SMELL

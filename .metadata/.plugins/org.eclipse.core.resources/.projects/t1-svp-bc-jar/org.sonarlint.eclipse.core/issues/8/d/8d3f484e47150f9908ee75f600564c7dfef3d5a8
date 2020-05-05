@@ -1,0 +1,31 @@
+
+ksquid:S3400V"9Remove this method and declare a constant for this value.(Ö§”ÓşÿÿÿÿH€2RMINORZ
+CODE_SMELL
+‘squid:S1149C"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(’ÓÛ¶úÿÿÿÿH2RMAJORZ
+CODE_SMELL
+asquid:EmptyStatementUsageCheckC"Remove this empty statement.(’ÓÛ¶úÿÿÿÿH‚2RMINORZ
+CODE_SMELL
+bsquid:S1066‚"/Merge this if statement with the enclosing one.(şÇˆøÿÿÿÿHƒ2RMAJORZ
+CODE_SMELL
+Œsquid:S1149<"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(…µ©µH„2RMAJORZ
+CODE_SMELL
+Ssquid:S1872®"'Use an "instanceof" comparison instead.(ã¦ĞÉúÿÿÿÿH…2RMAJORZBUG
+msquid:CallToDeprecatedMethodˆ".Remove this use of "encode"; it is deprecated.(æš×şH†2RMINORZ
+CODE_SMELL
+‘squid:S1149Y"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æéğşÿÿÿÿH‡2RMAJORZ
+CODE_SMELL
+‘squid:S1149h"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(²­ÑüÿÿÿÿHˆ2RMAJORZ
+CODE_SMELL
+‹squid:S1149p"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(œÏ±4H‰2RMAJORZ
+CODE_SMELL
+’squid:S1149ƒ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(÷Æ¦òúÿÿÿÿHŠ2RMAJORZ
+CODE_SMELL
+ksquid:S1197™"8Move the array designator from the variable to the type.(¾€çöøÿÿÿÿH‹2RMINORZ
+CODE_SMELL
+dsquid:S1135Â"2Complete the task associated to this TODO comment.(†ÊŸ´üÿÿÿÿHŒ2RINFOZ
+CODE_SMELL
+ "squid:ClassVariableVisibilityCheckE"YMake primera_linea a static final constant or non-public and provide accessors if needed.(ÎÊÏ™H2RMINORZVULNERABILITY
+‘squid:S1149;"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(µ­¶¶úÿÿÿÿH2RMAJORZ
+CODE_SMELL
+†squid:S00116E"XRename this field "primera_linea" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÊÏ™H2RMINORZ
+CODE_SMELL

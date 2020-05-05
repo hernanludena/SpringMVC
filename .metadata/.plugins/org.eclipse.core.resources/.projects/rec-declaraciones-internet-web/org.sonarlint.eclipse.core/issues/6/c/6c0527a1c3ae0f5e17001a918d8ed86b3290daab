@@ -1,0 +1,35 @@
+
+wsquid:S1192€"FDefine a constant instead of duplicating this literal "codVF" 4 times.(ñ’µHş3RCRITICALZ
+CODE_SMELL
+lsquid:S2696‡"6Make the enclosing method "static" or remove this set.(à·‡ßúÿÿÿÿH„4RCRITICALZ
+CODE_SMELL
+Jsquid:S1643…"Use a StringBuilder instead.(É«ÆèHú3RMINORZ
+CODE_SMELL
+Jsquid:S1643ú"Use a StringBuilder instead.(ÅúƒÜHù3RMINORZ
+CODE_SMELL
+lsquid:S2696û"6Make the enclosing method "static" or remove this set.(¥ÿ£¨şÿÿÿÿHƒ4RCRITICALZ
+CODE_SMELL
+psquid:S1854ï"BRemove this useless assignment to local variable "mapaPorcentaje".(á€ÛïH†4RMAJORZ
+CODE_SMELL
+‚squid:S3776|"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(æÌèüH…4RCRITICALZ
+CODE_SMELL
+ˆsquid:S1192Í"WDefine a constant instead of duplicating this literal "datosFormularioGeneral" 3 times.(°¼ˆ´Hı3RCRITICALZ
+CODE_SMELL
+œsquid:S1192ø"fDefine a constant instead of duplicating this literal "<tr style='background-color:#FAFAD2'>" 4 times.(«®éøÿÿÿÿHÿ3RCRITICALZ
+CODE_SMELL
+Jsquid:S1643"Use a StringBuilder instead.(ç¬½Hû3RMINORZ
+CODE_SMELL
+]squid:S1066«"/Merge this if statement with the enclosing one.(¹£‹õH4RMAJORZ
+CODE_SMELL
+Ksquid:S1700\"Rename field "porcentaje"(¶ú»¶úÿÿÿÿH‡4RMAJORZ
+CODE_SMELL
+lsquid:S1155ù">Use isEmpty() to check whether the collection is empty or not.(ú¢”H‰4RMINORZ
+CODE_SMELL
+wsquid:S1192ş"FDefine a constant instead of duplicating this literal "</tr>" 4 times.(øÏ•‡H€4RCRITICALZ
+CODE_SMELL
+Jsquid:S1643’"Use a StringBuilder instead.(”ÑÈ¯Hü3RMINORZ
+CODE_SMELL
+gsquid:S2696Ö"6Make the enclosing method "static" or remove this set.(æä‹°H‚4RCRITICALZ
+CODE_SMELL
+gsquid:S1161|":Add the "@Override" annotation above this method signature(æÌèüHˆ4RMAJORZ
+CODE_SMELL

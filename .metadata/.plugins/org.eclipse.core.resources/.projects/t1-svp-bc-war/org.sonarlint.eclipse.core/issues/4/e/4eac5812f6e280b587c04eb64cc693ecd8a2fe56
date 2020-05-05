@@ -1,0 +1,11 @@
+
+´%squid:RedundantThrowsDeclarationCheck—"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(´…ÄHRMINORZ
+CODE_SMELL
+¡squid:S1319"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(¥÷Ä—HRMINORZ
+CODE_SMELL
+¥squid:S1319¥"wThe type of the "comboList" object should be an interface such as "Map" rather than the implementation "LinkedHashMap".(Ã²œ„HRMINORZ
+CODE_SMELL
+usquid:S00112—"FDefine and throw a dedicated exception instead of using a generic one.(´…ÄH‘RMAJORZ
+CODE_SMELL
+xsquid:S1854z"FRemove this useless assignment to local variable "contextCountryList".(”Úê”ùÿÿÿÿH’RMAJORZ
+CODE_SMELL

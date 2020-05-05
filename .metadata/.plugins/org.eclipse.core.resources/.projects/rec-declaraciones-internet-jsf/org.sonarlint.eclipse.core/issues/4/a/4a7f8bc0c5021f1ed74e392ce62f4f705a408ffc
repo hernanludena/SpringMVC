@@ -1,0 +1,71 @@
+
+ˆsquid:S1192¤"RDefine a constant instead of duplicating this literal "-1000000000000000" 3 times.(È¡É²ÿÿÿÿÿH’5RCRITICALZ
+CODE_SMELL
+|squid:S1192¬"FDefine a constant instead of duplicating this literal "value" 3 times.(¿°¿ÊıÿÿÿÿH“5RCRITICALZ
+CODE_SMELL
+\squid:S1125©")Remove the literal "false" boolean value.(³¹ßÈüÿÿÿÿH”5RMINORZ
+CODE_SMELL
+\squid:S1125·")Remove the literal "false" boolean value.(³¹ßÈüÿÿÿÿH•5RMINORZ
+CODE_SMELL
+Wsquid:S1125ı")Remove the literal "false" boolean value.(¹İ¸ÆH–5RMINORZ
+CODE_SMELL
+fsquid:S2696P"6Make the enclosing method "static" or remove this set.(°îã€H—5RCRITICALZ
+CODE_SMELL
+ksquid:S2696S"6Make the enclosing method "static" or remove this set.(ÂÔ¢áüÿÿÿÿH˜5RCRITICALZ
+CODE_SMELL
+fsquid:S2696U"6Make the enclosing method "static" or remove this set.(–¸´H™5RCRITICALZ
+CODE_SMELL
+jsquid:S2589"7Remove this expression which always evaluates to "true"(Š˜–ÿÿÿÿÿHš5RMAJORZ
+CODE_SMELL
+rsquid:S3358£"DExtract this nested ternary operation into an independent statement.(¡ßí’H›5RMAJORZ
+CODE_SMELL
+wsquid:S3358¤"DExtract this nested ternary operation into an independent statement.(Îú‡ÉûÿÿÿÿHœ5RMAJORZ
+CODE_SMELL
+rsquid:S3358¥"DExtract this nested ternary operation into an independent statement.(ç™¶ƒH5RMAJORZ
+CODE_SMELL
+wsquid:S3358§"DExtract this nested ternary operation into an independent statement.(Ø¾½¹ûÿÿÿÿH5RMAJORZ
+CODE_SMELL
+qsquid:S3358¡"DExtract this nested ternary operation into an independent statement.(‚ìlHŸ5RMAJORZ
+CODE_SMELL
+rsquid:S3358£"DExtract this nested ternary operation into an independent statement.(‰ª»åH 5RMAJORZ
+CODE_SMELL
+wsquid:S3358¥"DExtract this nested ternary operation into an independent statement.(…ïøÿÿÿÿH¡5RMAJORZ
+CODE_SMELL
+wsquid:S3358§"DExtract this nested ternary operation into an independent statement.(ï¨üşÿÿÿÿH¢5RMAJORZ
+CODE_SMELL
+qsquid:S3358¯"DExtract this nested ternary operation into an independent statement.(‚ìlH£5RMAJORZ
+CODE_SMELL
+rsquid:S3358±"DExtract this nested ternary operation into an independent statement.(‰ª»åH¤5RMAJORZ
+CODE_SMELL
+rsquid:S3358³"DExtract this nested ternary operation into an independent statement.(ç™¶ƒH¥5RMAJORZ
+CODE_SMELL
+wsquid:S3358µ"DExtract this nested ternary operation into an independent statement.(ãŞâ…ÿÿÿÿÿH¦5RMAJORZ
+CODE_SMELL
+wsquid:S3358Ì"DExtract this nested ternary operation into an independent statement.(ó£ÿúÿÿÿÿH§5RMAJORZ
+CODE_SMELL
+qsquid:S3358ô"DExtract this nested ternary operation into an independent statement.(‚ìlH¨5RMAJORZ
+CODE_SMELL
+rsquid:S3358ö"DExtract this nested ternary operation into an independent statement.(‰ª»åH©5RMAJORZ
+CODE_SMELL
+rsquid:S3358ø"DExtract this nested ternary operation into an independent statement.(ç™¶ƒHª5RMAJORZ
+CODE_SMELL
+wsquid:S3358ú"DExtract this nested ternary operation into an independent statement.(Ø¾½¹ûÿÿÿÿH«5RMAJORZ
+CODE_SMELL
+rsquid:S3358‚"DExtract this nested ternary operation into an independent statement.(ÿ¼½íH¬5RMAJORZ
+CODE_SMELL
+wsquid:S3358ˆ"DExtract this nested ternary operation into an independent statement.(ÜÙ“ıÿÿÿÿH­5RMAJORZ
+CODE_SMELL
+rsquid:S3358‹"DExtract this nested ternary operation into an independent statement.(‰ª»åH®5RMAJORZ
+CODE_SMELL
+rsquid:S3358"DExtract this nested ternary operation into an independent statement.(ç™¶ƒH¯5RMAJORZ
+CODE_SMELL
+wsquid:S3358"DExtract this nested ternary operation into an independent statement.(Ø¾½¹ûÿÿÿÿH°5RMAJORZ
+CODE_SMELL
+wsquid:S3358˜"DExtract this nested ternary operation into an independent statement.(ÃŠÛüşÿÿÿÿH±5RMAJORZ
+CODE_SMELL
+’squid:S1149Ş"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(’½Ù¿úÿÿÿÿH²5RMAJORZ
+CODE_SMELL
+Tsquid:S19486"$Make "paneles" private or transient.(‹«÷ùH³5RCRITICALZ
+CODE_SMELL
+\squid:S19487"'Make "navegacion" private or transient.(¦âï«ùÿÿÿÿH´5RCRITICALZ
+CODE_SMELL

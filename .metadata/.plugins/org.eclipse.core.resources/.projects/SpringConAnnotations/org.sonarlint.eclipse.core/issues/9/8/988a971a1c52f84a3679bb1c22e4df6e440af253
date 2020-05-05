@@ -1,0 +1,15 @@
+
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(Éê–ªÿÿÿÿÿ8±Âı¿­-HéRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªüÙ¦úÿÿÿÿ8ä›ç¿­-HêRMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(’÷—8±Âı¿­-HëRMAJORZ
+CODE_SMELL
+¦squid:UselessImportCheck"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ËÛüÿÿÿÿ8«‡ó¾­-HìRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(—õø8­±è¿­-HíRMAJORZ
+CODE_SMELL

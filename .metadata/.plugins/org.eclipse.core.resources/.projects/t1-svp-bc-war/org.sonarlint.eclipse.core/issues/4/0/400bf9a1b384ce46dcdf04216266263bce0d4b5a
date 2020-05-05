@@ -1,0 +1,445 @@
+
+rjavascript:S2259ט"ATypeError can be thrown as "obj" might be null or undefined here.(ִ‎»·ÿÿÿÿÿH”RMAJORZBUG
+„javascript:S2589
+"LRefactor this code so that this expression does not always evaluate to true.(״ךûֿ‏ÿÿÿÿH•RMAJORZ
+CODE_SMELL
+javascript:S2814T"HRename "element" as this name is already used in declaration at line 53.(ךֿ£ם‎ÿÿÿÿH–RMAJORZ
+CODE_SMELL
+yjavascript:S2814 	"FRename "top" as this name is already used in declaration at line 1176.(¦—םץH—RMAJORZ
+CODE_SMELL
+€javascript:S28146"IRename "settings" as this name is already used in declaration at line 53.(€µÞֲûÿÿÿÿH˜RMAJORZ
+CODE_SMELL
+Sjavascript:S1116d"Remove this empty statement.(פלתÿÿÿÿH™RMINORZ
+CODE_SMELL
+Sjavascript:S1116i"Remove this empty statement.(¬ׂ»‎ÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿH›RMINORZ
+CODE_SMELL
+Tjavascript:S1116—"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116¡"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116¢"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116₪"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116¬"Remove this empty statement.(פלתÿÿÿÿH RMINORZ
+CODE_SMELL
+Tjavascript:S1116­"Remove this empty statement.(פלתÿÿÿÿH¡RMINORZ
+CODE_SMELL
+Tjavascript:S1116´"Remove this empty statement.(פלתÿÿÿÿH¢RMINORZ
+CODE_SMELL
+Tjavascript:S1116½"Remove this empty statement.(פלתÿÿÿÿH£RMINORZ
+CODE_SMELL
+Tjavascript:S1116ְ"Remove this empty statement.(±זגײüÿÿÿÿH₪RMINORZ
+CODE_SMELL
+Tjavascript:S1116־"Remove this empty statement.(פלתÿÿÿÿH¥RMINORZ
+CODE_SMELL
+Tjavascript:S1116ח"Remove this empty statement.(פלתÿÿÿÿH¦RMINORZ
+CODE_SMELL
+Tjavascript:S1116ם"Remove this empty statement.(פלתÿÿÿÿH§RMINORZ
+CODE_SMELL
+Tjavascript:S1116ר"Remove this empty statement.(פלתÿÿÿÿH¨RMINORZ
+CODE_SMELL
+Tjavascript:S1116‡"Remove this empty statement.(פלתÿÿÿÿH©RMINORZ
+CODE_SMELL
+Tjavascript:S1116ˆ"Remove this empty statement.(פלתÿÿÿÿH×RMINORZ
+CODE_SMELL
+Tjavascript:S1116‰"Remove this empty statement.(פלתÿÿÿÿH«RMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿH¬RMINORZ
+CODE_SMELL
+Tjavascript:S1116›"Remove this empty statement.(פלתÿÿÿÿH­RMINORZ
+CODE_SMELL
+Tjavascript:S1116¨"Remove this empty statement.(פלתÿÿÿÿH®RMINORZ
+CODE_SMELL
+Njavascript:S1116¸"Remove this empty statement.(ֶ–ˆTH¯RMINORZ
+CODE_SMELL
+Tjavascript:S1116¼"Remove this empty statement.(פלתÿÿÿÿH°RMINORZ
+CODE_SMELL
+Tjavascript:S1116ֿ"Remove this empty statement.(פלתÿÿÿÿH±RMINORZ
+CODE_SMELL
+Tjavascript:S1116׀"Remove this empty statement.(פלתÿÿÿÿH²RMINORZ
+CODE_SMELL
+Tjavascript:S1116ײ"Remove this empty statement.(פלתÿÿÿÿH³RMINORZ
+CODE_SMELL
+Njavascript:S1116ז"Remove this empty statement.(ײֹ›pH´RMINORZ
+CODE_SMELL
+Tjavascript:S1116ם"Remove this empty statement.(פלתÿÿÿÿHµRMINORZ
+CODE_SMELL
+Tjavascript:S1116ע"Remove this empty statement.(פלתÿÿÿÿH¶RMINORZ
+CODE_SMELL
+Tjavascript:S1116ש"Remove this empty statement.(פלתÿÿÿÿH·RMINORZ
+CODE_SMELL
+Tjavascript:S1116ת"Remove this empty statement.(פלתÿÿÿÿH¸RMINORZ
+CODE_SMELL
+Tjavascript:S1116ÿ"Remove this empty statement.(פלתÿÿÿÿH¹RMINORZ
+CODE_SMELL
+Tjavascript:S1116‹"Remove this empty statement.(פלתÿÿÿÿH÷RMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿH»RMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿH¼RMINORZ
+CODE_SMELL
+Tjavascript:S1116–"Remove this empty statement.(פלתÿÿÿÿH½RMINORZ
+CODE_SMELL
+Tjavascript:S1116—"Remove this empty statement.(פלתÿÿÿÿH¾RMINORZ
+CODE_SMELL
+Tjavascript:S1116£"Remove this empty statement.(פלתÿÿÿÿH¿RMINORZ
+CODE_SMELL
+Tjavascript:S1116¨"Remove this empty statement.(פלתÿÿÿÿHְRMINORZ
+CODE_SMELL
+Tjavascript:S1116®"Remove this empty statement.(פלתÿÿÿÿHֱRMINORZ
+CODE_SMELL
+Tjavascript:S1116½"Remove this empty statement.(פלתÿÿÿÿHֲRMINORZ
+CODE_SMELL
+Tjavascript:S1116ֲ"Remove this empty statement.(פלתÿÿÿÿHֳRMINORZ
+CODE_SMELL
+Tjavascript:S1116ִ"Remove this empty statement.(פלתÿÿÿÿHִRMINORZ
+CODE_SMELL
+Tjavascript:S1116׀"Remove this empty statement.(פלתÿÿÿÿHֵRMINORZ
+CODE_SMELL
+Tjavascript:S1116ׂ"Remove this empty statement.(פלתÿÿÿÿHֶRMINORZ
+CODE_SMELL
+Tjavascript:S1116ß"Remove this empty statement.(פלתÿÿÿÿHַRMINORZ
+CODE_SMELL
+Tjavascript:S1116א"Remove this empty statement.(פלתÿÿÿÿHָRMINORZ
+CODE_SMELL
+Tjavascript:S1116ה"Remove this empty statement.(פלתÿÿÿÿHֹRMINORZ
+CODE_SMELL
+Tjavascript:S1116ס"Remove this empty statement.(פלתÿÿÿÿHÊRMINORZ
+CODE_SMELL
+Tjavascript:S1116צ"Remove this empty statement.(פלתÿÿÿÿHֻRMINORZ
+CODE_SMELL
+Tjavascript:S1116‚"Remove this empty statement.(פלתÿÿÿÿHּRMINORZ
+CODE_SMELL
+Tjavascript:S1116ƒ"Remove this empty statement.(פלתÿÿÿÿHֽRMINORZ
+CODE_SMELL
+Tjavascript:S1116‘"Remove this empty statement.(פלתÿÿÿÿH־RMINORZ
+CODE_SMELL
+Tjavascript:S1116–"Remove this empty statement.(פלתÿÿÿÿHֿRMINORZ
+CODE_SMELL
+Tjavascript:S1116—"Remove this empty statement.(פלתÿÿÿÿH׀RMINORZ
+CODE_SMELL
+Tjavascript:S1116˜"Remove this empty statement.(פלתÿÿÿÿHׁRMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿHׂRMINORZ
+CODE_SMELL
+Tjavascript:S1116¥"Remove this empty statement.(פלתÿÿÿÿH׃RMINORZ
+CODE_SMELL
+Tjavascript:S1116¦"Remove this empty statement.(פלתÿÿÿÿHװRMINORZ
+CODE_SMELL
+Tjavascript:S1116×"Remove this empty statement.(פלתÿÿÿÿHױRMINORZ
+CODE_SMELL
+Tjavascript:S1116¯"Remove this empty statement.(פלתÿÿÿÿHײRMINORZ
+CODE_SMELL
+Tjavascript:S1116÷"Remove this empty statement.(פלתÿÿÿÿH׳RMINORZ
+CODE_SMELL
+Tjavascript:S1116»"Remove this empty statement.(פלתÿÿÿÿH״RMINORZ
+CODE_SMELL
+Tjavascript:S1116¼"Remove this empty statement.(פלתÿÿÿÿHÙRMINORZ
+CODE_SMELL
+Tjavascript:S1116־"Remove this empty statement.(פלתÿÿÿÿHÚRMINORZ
+CODE_SMELL
+Tjavascript:S1116ס"Remove this empty statement.(פלתÿÿÿÿHÛRMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿHÜRMINORZ
+CODE_SMELL
+Tjavascript:S1116›"Remove this empty statement.(פלתÿÿÿÿHÝRMINORZ
+CODE_SMELL
+Tjavascript:S1116¼"Remove this empty statement.(פלתÿÿÿÿHÞRMINORZ
+CODE_SMELL
+Tjavascript:S1116ִ"Remove this empty statement.(פלתÿÿÿÿHßRMINORZ
+CODE_SMELL
+Tjavascript:S1116־"Remove this empty statement.(פלתÿÿÿÿHאRMINORZ
+CODE_SMELL
+Tjavascript:S1116ױ"Remove this empty statement.(פלתÿÿÿÿHבRMINORZ
+CODE_SMELL
+Tjavascript:S1116ם"Remove this empty statement.(פלתÿÿÿÿHגRMINORZ
+CODE_SMELL
+Tjavascript:S1116ס"Remove this empty statement.(פלתÿÿÿÿHדRMINORZ
+CODE_SMELL
+Tjavascript:S1116פ"Remove this empty statement.(פלתÿÿÿÿHהRMINORZ
+CODE_SMELL
+Tjavascript:S1116û"Remove this empty statement.(פלתÿÿÿÿHוRMINORZ
+CODE_SMELL
+Tjavascript:S1116ÿ"Remove this empty statement.(פלתÿÿÿÿHזRMINORZ
+CODE_SMELL
+Tjavascript:S1116‚"Remove this empty statement.(פלתÿÿÿÿHחRMINORZ
+CODE_SMELL
+Tjavascript:S1116‡"Remove this empty statement.(פלתÿÿÿÿHטRMINORZ
+CODE_SMELL
+Tjavascript:S1116‰"Remove this empty statement.(פלתÿÿÿÿHיRMINORZ
+CODE_SMELL
+Tjavascript:S1116‘"Remove this empty statement.(פלתÿÿÿÿHךRMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿHכRMINORZ
+CODE_SMELL
+Tjavascript:S1116₪"Remove this empty statement.(פלתÿÿÿÿHלRMINORZ
+CODE_SMELL
+Tjavascript:S1116®"Remove this empty statement.(פלתÿÿÿÿHםRMINORZ
+CODE_SMELL
+Tjavascript:S1116°"Remove this empty statement.(פלתÿÿÿÿHמRMINORZ
+CODE_SMELL
+Tjavascript:S1116ֻ"Remove this empty statement.(פלתÿÿÿÿHןRMINORZ
+CODE_SMELL
+Tjavascript:S1116ּ"Remove this empty statement.(פלתÿÿÿÿHנRMINORZ
+CODE_SMELL
+Tjavascript:S1116׃"Remove this empty statement.(פלתÿÿÿÿHסRMINORZ
+CODE_SMELL
+Tjavascript:S1116ß"Remove this empty statement.(פלתÿÿÿÿHעRMINORZ
+CODE_SMELL
+Tjavascript:S1116י"Remove this empty statement.(פלתÿÿÿÿHףRMINORZ
+CODE_SMELL
+Tjavascript:S1116ם"Remove this empty statement.(פלתÿÿÿÿHפRMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿHץRMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿHצRMINORZ
+CODE_SMELL
+Tjavascript:S1116‘"Remove this empty statement.(פלתÿÿÿÿHקRMINORZ
+CODE_SMELL
+Tjavascript:S1116’"Remove this empty statement.(פלתÿÿÿÿHרRMINORZ
+CODE_SMELL
+Tjavascript:S1116•"Remove this empty statement.(פלתÿÿÿÿHשRMINORZ
+CODE_SMELL
+Tjavascript:S1116 "Remove this empty statement.(פלתÿÿÿÿHתRMINORZ
+CODE_SMELL
+Tjavascript:S1116¡"Remove this empty statement.(פלתÿÿÿÿHûRMINORZ
+CODE_SMELL
+Tjavascript:S1116¨"Remove this empty statement.(פלתÿÿÿÿHüRMINORZ
+CODE_SMELL
+Tjavascript:S1116׀"Remove this empty statement.(פלתÿÿÿÿH‎RMINORZ
+CODE_SMELL
+Tjavascript:S1116ׂ"Remove this empty statement.(פלתÿÿÿÿH‏RMINORZ
+CODE_SMELL
+Tjavascript:S1116Þ"Remove this empty statement.(פלתÿÿÿÿHÿRMINORZ
+CODE_SMELL
+Tjavascript:S1116ƒ"Remove this empty statement.(פלתÿÿÿÿH€RMINORZ
+CODE_SMELL
+Tjavascript:S1116‰"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116“"Remove this empty statement.(פלתÿÿÿÿH‚RMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿHƒRMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿH„RMINORZ
+CODE_SMELL
+Tjavascript:S1116 "Remove this empty statement.(פלתÿÿÿÿH…RMINORZ
+CODE_SMELL
+Tjavascript:S1116¡"Remove this empty statement.(פלתÿÿÿÿH†RMINORZ
+CODE_SMELL
+Tjavascript:S1116§"Remove this empty statement.(פלתÿÿÿÿH‡RMINORZ
+CODE_SMELL
+Tjavascript:S1116µ"Remove this empty statement.(פלתÿÿÿÿHˆRMINORZ
+CODE_SMELL
+Tjavascript:S1116¶"Remove this empty statement.(פלתÿÿÿÿH‰RMINORZ
+CODE_SMELL
+Tjavascript:S1116¸"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116ֶ"Remove this empty statement.(פלתÿÿÿÿH‹RMINORZ
+CODE_SMELL
+Tjavascript:S1116ַ"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116װ"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116Ù"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116Û"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116Þ"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116ß"Remove this empty statement.(פלתÿÿÿÿH‘RMINORZ
+CODE_SMELL
+Tjavascript:S1116ה"Remove this empty statement.(פלתÿÿÿÿH’RMINORZ
+CODE_SMELL
+Tjavascript:S1116ח"Remove this empty statement.(פלתÿÿÿÿH“RMINORZ
+CODE_SMELL
+Tjavascript:S1116י"Remove this empty statement.(פלתÿÿÿÿH”RMINORZ
+CODE_SMELL
+Tjavascript:S1116ץ"Remove this empty statement.(פלתÿÿÿÿH•RMINORZ
+CODE_SMELL
+Tjavascript:S1116ת"Remove this empty statement.(פלתÿÿÿÿH–RMINORZ
+CODE_SMELL
+Tjavascript:S1116‏"Remove this empty statement.(פלתÿÿÿÿH—RMINORZ
+CODE_SMELL
+Tjavascript:S1116ÿ"Remove this empty statement.(פלתÿÿÿÿH˜RMINORZ
+CODE_SMELL
+Tjavascript:S1116‚	"Remove this empty statement.(פלתÿÿÿÿH™RMINORZ
+CODE_SMELL
+Tjavascript:S1116ƒ	"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116‰	"Remove this empty statement.(פלתÿÿÿÿH›RMINORZ
+CODE_SMELL
+Tjavascript:S1116	"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116	"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116	"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116¥	"Remove this empty statement.(פלתÿÿÿÿHRMINORZ
+CODE_SMELL
+Tjavascript:S1116¦	"Remove this empty statement.(פלתÿÿÿÿH RMINORZ
+CODE_SMELL
+Tjavascript:S1116«	"Remove this empty statement.(פלתÿÿÿÿH¡RMINORZ
+CODE_SMELL
+Tjavascript:S1116¬	"Remove this empty statement.(פלתÿÿÿÿH¢RMINORZ
+CODE_SMELL
+Tjavascript:S1116³	"Remove this empty statement.(פלתÿÿÿÿH£RMINORZ
+CODE_SMELL
+Tjavascript:S1116´	"Remove this empty statement.(פלתÿÿÿÿH₪RMINORZ
+CODE_SMELL
+Tjavascript:S1116¾	"Remove this empty statement.(פלתÿÿÿÿH¥RMINORZ
+CODE_SMELL
+Tjavascript:S1116ֹ	"Remove this empty statement.(פלתÿÿÿÿH¦RMINORZ
+CODE_SMELL
+Tjavascript:S1116׀	"Remove this empty statement.(פלתÿÿÿÿH§RMINORZ
+CODE_SMELL
+Tjavascript:S1116ׂ	"Remove this empty statement.(פלתÿÿÿÿH¨RMINORZ
+CODE_SMELL
+Tjavascript:S1116׳	"Remove this empty statement.(פלתÿÿÿÿH©RMINORZ
+CODE_SMELL
+Tjavascript:S1116״	"Remove this empty statement.(פלתÿÿÿÿH×RMINORZ
+CODE_SMELL
+Tjavascript:S1116ג	"Remove this empty statement.(פלתÿÿÿÿH«RMINORZ
+CODE_SMELL
+Tjavascript:S1116ד	"Remove this empty statement.(פלתÿÿÿÿH¬RMINORZ
+CODE_SMELL
+Tjavascript:S1116ט	"Remove this empty statement.(פלתÿÿÿÿH­RMINORZ
+CODE_SMELL
+Tjavascript:S1116ק	"Remove this empty statement.(פלתÿÿÿÿH®RMINORZ
+CODE_SMELL
+Tjavascript:S1116ר	"Remove this empty statement.(פלתÿÿÿÿH¯RMINORZ
+CODE_SMELL
+Tjavascript:S1116û	"Remove this empty statement.(פלתÿÿÿÿH°RMINORZ
+CODE_SMELL
+Tjavascript:S1116†
+"Remove this empty statement.(פלתÿÿÿÿH±RMINORZ
+CODE_SMELL
+Tjavascript:S1116
+"Remove this empty statement.(פלתÿÿÿÿH²RMINORZ
+CODE_SMELL
+Tjavascript:S1116¢
+"Remove this empty statement.(פלתÿÿÿÿH³RMINORZ
+CODE_SMELL
+Tjavascript:S1116£
+"Remove this empty statement.(פלתÿÿÿÿH´RMINORZ
+CODE_SMELL
+Tjavascript:S1116³
+"Remove this empty statement.(פלתÿÿÿÿHµRMINORZ
+CODE_SMELL
+Tjavascript:S1116¼
+"Remove this empty statement.(פלתÿÿÿÿH¶RMINORZ
+CODE_SMELL
+Tjavascript:S1116ֱ
+"Remove this empty statement.(פלתÿÿÿÿH·RMINORZ
+CODE_SMELL
+Tjavascript:S1116ַ
+"Remove this empty statement.(פלתÿÿÿÿH¸RMINORZ
+CODE_SMELL
+Tjavascript:S1116Ê
+"Remove this empty statement.(פלתÿÿÿÿH¹RMINORZ
+CODE_SMELL
+Tjavascript:S1116ֻ
+"Remove this empty statement.(פלתÿÿÿÿH÷RMINORZ
+CODE_SMELL
+Tjavascript:S1116Û
+"Remove this empty statement.(פלתÿÿÿÿH»RMINORZ
+CODE_SMELL
+Tjavascript:S1116ב
+"Remove this empty statement.(פלתÿÿÿÿH¼RMINORZ
+CODE_SMELL
+Tjavascript:S1116ז
+"Remove this empty statement.(פלתÿÿÿÿH½RMINORZ
+CODE_SMELL
+Tjavascript:S1116ס
+"Remove this empty statement.(פלתÿÿÿÿH¾RMINORZ
+CODE_SMELL
+Tjavascript:S1116ע
+"Remove this empty statement.(פלתÿÿÿÿH¿RMINORZ
+CODE_SMELL
+Tjavascript:S1116ץ
+"Remove this empty statement.(פלתÿÿÿÿHְRMINORZ
+CODE_SMELL
+Tjavascript:S1116ר
+"Remove this empty statement.(פלתÿÿÿÿHֱRMINORZ
+CODE_SMELL
+Tjavascript:S1116û
+"Remove this empty statement.(פלתÿÿÿÿHֲRMINORZ
+CODE_SMELL
+Tjavascript:S1116‎
+"Remove this empty statement.(פלתÿÿÿÿHֳRMINORZ
+CODE_SMELL
+Tjavascript:S1116"Remove this empty statement.(פלתÿÿÿÿHִRMINORZ
+CODE_SMELL
+Tjavascript:S1116‘"Remove this empty statement.(פלתÿÿÿÿHֵRMINORZ
+CODE_SMELL
+Tjavascript:S1116¦"Remove this empty statement.(פלתÿÿÿÿHֶRMINORZ
+CODE_SMELL
+Tjavascript:S1116¸"Remove this empty statement.(½ה•üÿÿÿÿHַRMINORZ
+CODE_SMELL
+Tjavascript:S1116¾"Remove this empty statement.(פלתÿÿÿÿHָRMINORZ
+CODE_SMELL
+Tjavascript:S1116״"Remove this empty statement.(פלתÿÿÿÿHֹRMINORZ
+CODE_SMELL
+Tjavascript:S1116ו"Remove this empty statement.(פלתÿÿÿÿHÊRMINORZ
+CODE_SMELL
+Tjavascript:S1116ז"Remove this empty statement.(פלתÿÿÿÿHֻRMINORZ
+CODE_SMELL
+Tjavascript:S1116י"Remove this empty statement.(פלתÿÿÿÿHּRMINORZ
+CODE_SMELL
+Tjavascript:S1116ץ"Remove this empty statement.(פלתÿÿÿÿHֽRMINORZ
+CODE_SMELL
+Tjavascript:S1116ק"Remove this empty statement.(פלתÿÿÿÿH־RMINORZ
+CODE_SMELL
+Tjavascript:S1116„"Remove this empty statement.(פלתÿÿÿÿHֿRMINORZ
+CODE_SMELL
+Tjavascript:S1116’"Remove this empty statement.(פלתÿÿÿÿH׀RMINORZ
+CODE_SMELL
+Tjavascript:S1116»"Remove this empty statement.(פלתÿÿÿÿHׁRMINORZ
+CODE_SMELL
+Tjavascript:S1116ֵ"Remove this empty statement.(פלתÿÿÿÿHׂRMINORZ
+CODE_SMELL
+†javascript:Eval"IReview the arguments of this "eval" call to make sure they are validated.(¾ה־חרÿÿÿÿH׃RCRITICALZVULNERABILITY
+†javascript:Evalז"IReview the arguments of this "eval" call to make sure they are validated.(ׂ³£üÿÿÿÿHװRCRITICALZVULNERABILITY
+ujavascript:UnusedVariable«"4Remove the declaration of the unused 'tid' variable.(°‘ּ‎ÿÿÿÿHױRMINORZ
+CODE_SMELL
+wjavascript:UnusedVariable®"6Remove the declaration of the unused 'hidid' variable.(מײÝüשÿÿÿÿHײRMINORZ
+CODE_SMELL
+pjavascript:UnusedVariableֹ"4Remove the declaration of the unused 'opc' variable.(§לû°H׳RMINORZ
+CODE_SMELL
+pjavascript:UnusedVariable•
+"4Remove the declaration of the unused 'ind' variable.(û”„’H״RMINORZ
+CODE_SMELL
+tjavascript:UnusedVariable†"8Remove the declaration of the unused 'childid' variable.(ףֽ—אHÙRMINORZ
+CODE_SMELL
+zjavascript:UnusedVariableV":Remove the declaration of the unused 'isCreated' variable.(ֻ¨תÿÿÿÿHÚRMINORZ
+CODE_SMELL
+ujavascript:UnusedVariable§"4Remove the declaration of the unused 'evt' variable.(˜ֱרÿÿÿÿHÛRMINORZ
+CODE_SMELL
+ojavascript:UnusedVariable¸	"3Remove the declaration of the unused 'id' variable.(־ײג‡HÜRMINORZ
+CODE_SMELL
+pjavascript:S1854ל"8Remove this useless assignment to local variable "index"(¥‘‡¾ÿÿÿÿÿHÝRMAJORZ
+CODE_SMELL
+jjavascript:S1854ן"7Remove this useless assignment to local variable "text"(»—­HÞRMAJORZ
+CODE_SMELL
+mjavascript:S1854ד":Remove this useless assignment to local variable "iHeight"(ג₪ֻHßRMAJORZ
+CODE_SMELL
+rjavascript:S1854ב":Remove this useless assignment to local variable "iHeight"(זחיƒûÿÿÿÿHאRMAJORZ
+CODE_SMELL
+mjavascript:S1854†":Remove this useless assignment to local variable "childid"(ףֽ—אHבRMAJORZ
+CODE_SMELL
+ijavascript:S1854ֹ"6Remove this useless assignment to local variable "opc"(§לû°HגRMAJORZ
+CODE_SMELL
+njavascript:S1854§"6Remove this useless assignment to local variable "evt"(˜ֱרÿÿÿÿHדRMAJORZ
+CODE_SMELL
+njavascript:S1854«"6Remove this useless assignment to local variable "tid"(°‘ּ‎ÿÿÿÿHהRMAJORZ
+CODE_SMELL
+hjavascript:S1854¸	"5Remove this useless assignment to local variable "id"(־ײג‡HוRMAJORZ
+CODE_SMELL
+pjavascript:S1854®"8Remove this useless assignment to local variable "hidid"(מײÝüשÿÿÿÿHזRMAJORZ
+CODE_SMELL
+“javascript:S2703"YAdd the "let", "const" or "var" keyword to this declaration of "opt" to make it explicit.(©‰üˆÿÿÿÿÿHחRBLOCKERZ
+CODE_SMELL
+javascript:S1301€"MReplace this "switch" statement with "if" statements to increase readability.(לתַVHטRMINORZ
+CODE_SMELL

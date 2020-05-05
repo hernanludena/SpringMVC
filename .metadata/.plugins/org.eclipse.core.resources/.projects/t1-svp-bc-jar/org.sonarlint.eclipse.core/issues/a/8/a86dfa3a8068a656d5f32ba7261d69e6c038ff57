@@ -1,0 +1,17 @@
+
+Œsquid:S3008"_Rename this field "BANK_STANDARD_TXCODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øƒ…½HÜRMINORZ
+CODE_SMELL
+‚squid:S3008"VRename this field "TAG_INITIAL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ð¯2HÝRMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÞRINFOZ
+CODE_SMELL
+csquid:S1135-"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHßRINFOZ
+CODE_SMELL
+csquid:S11352"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHàRINFOZ
+CODE_SMELL
+csquid:S1135C"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHáRINFOZ
+CODE_SMELL
+csquid:S1135H"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHâRINFOZ
+CODE_SMELL
+gsquid:S1161K":Add the "@Override" annotation above this method signature(€Û‡¾HãRMAJORZ
+CODE_SMELL

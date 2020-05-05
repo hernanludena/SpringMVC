@@ -1,0 +1,40 @@
+
+¹%squid:RedundantThrowsDeclarationCheck£"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(Â§„âşÿÿÿÿHıRMINORZ
+CODE_SMELL
+j"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(ªóîHşRCRITICALZ
+CODE_SMELL
+ysquid:S1854ş"DRemove this useless assignment to local variable "notificationBean".(ö®û8·Ş‡¬ö,HRMAJORZ
+CODE_SMELL
+rsquid:S1854É"DRemove this useless assignment to local variable "notificationBean".(èïìãH‡RMAJORZ
+CODE_SMELL
+usquid:S2259…"IA "NullPointerException" could be thrown; "mailHandler" is nullable here.(¹Ş…€ùÿÿÿÿH‚RMAJORZBUG
+wsquid:S1854ğ"DRemove this useless assignment to local variable "notificationBean".(öƒ­‹úÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+rsquid:S1854÷"DRemove this useless assignment to local variable "notificationBean".(ààÅéHRMAJORZ
+CODE_SMELL
+lsquid:S1161X":Add the "@Override" annotation above this method signature(“¦õøúÿÿÿÿHRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ºî©øÿÿÿÿHRMAJORZ
+CODE_SMELL
+qsquid:S1155¼">Use isEmpty() to check whether the collection is empty or not.(Š“¿ÜıÿÿÿÿHRMINORZ
+CODE_SMELL
+wsquid:S1854Â"DRemove this useless assignment to local variable "notificationBean".(†ÀŞ‰ıÿÿÿÿH†RMAJORZ
+CODE_SMELL
+rsquid:S1854´"DRemove this useless assignment to local variable "notificationBean".(ø…¼ĞH„RMAJORZ
+CODE_SMELL
+j"squid:SwitchLastCaseIsDefaultCheck°""Add a default case to this switch.(ªóîHÿRCRITICALZ
+CODE_SMELL
+ysquid:S1192‚"HDefine a constant instead of duplicating this literal "FUNDEXT" 3 times.(Øõ«H€RCRITICALZ
+CODE_SMELL
+rsquid:S1854á"DRemove this useless assignment to local variable "notificationBean".(ÒˆİŠHŠRMAJORZ
+CODE_SMELL
+rsquid:S1854é"DRemove this useless assignment to local variable "notificationBean".(Éõ†¦H‹RMAJORZ
+CODE_SMELL
+rsquid:S1854Ñ"DRemove this useless assignment to local variable "notificationBean".(¨êòôHˆRMAJORZ
+CODE_SMELL
+Xsquid:S00108ƒ")Either remove or fill this block of code.(”ı¾HƒRMAJORZ
+CODE_SMELL
+wsquid:S1854»"DRemove this useless assignment to local variable "notificationBean".(óÕ«ÕşÿÿÿÿH…RMAJORZ
+CODE_SMELL
+wsquid:S1854Ù"DRemove this useless assignment to local variable "notificationBean".(×Å¹öÿÿÿÿÿH‰RMAJORZ
+CODE_SMELL

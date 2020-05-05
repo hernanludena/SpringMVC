@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server -config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server " name="Tomcat v9.0 Server " runtime-id="Tomcat v9.0 Server " server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="false" timestamp="40">
+  <list key="modules" value0="Spring_MVC_Ejemplo1::org.eclipse.jst.jee.server:Spring_MVC_Ejemplo1::jst.web::4.0"/>
+</server>

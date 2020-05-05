@@ -1,0 +1,7 @@
+
+‡squid:S3776E"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(“¦õøúÿÿÿÿH‘RCRITICALZ
+CODE_SMELL
+lsquid:S1161E":Add the "@Override" annotation above this method signature(“¦õøúÿÿÿÿH“RMAJORZ
+CODE_SMELL
+€squid:S00117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ŸöâH’RMINORZ
+CODE_SMELL

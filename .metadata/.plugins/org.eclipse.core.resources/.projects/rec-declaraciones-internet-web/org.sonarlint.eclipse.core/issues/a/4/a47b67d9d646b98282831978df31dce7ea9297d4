@@ -1,0 +1,28 @@
+
+gjavascript:S3782ˆ"4Change this argument to the documented type: Number.(èø¥êHû4RMAJORZ
+CODE_SMELL
+Xjavascript:S1442‰""Remove this usage of confirm(...).(íûõÌHü4RMINORZVULNERABILITY
+}javascript:S2814W"KRename "msgDFConRF" as this name is already used in declaration at line 84.(ßºÁHı4RMAJORZ
+CODE_SMELL
+€javascript:S2814È"MRename "exoneracion" as this name is already used in declaration at line 964.(ÄËşÈHş4RMAJORZ
+CODE_SMELL
+€javascript:S2814Î"MRename "exoneracion" as this name is already used in declaration at line 964.(²º•Hÿ4RMAJORZ
+CODE_SMELL
+…javascript:S2814Ò"MRename "exoneracion" as this name is already used in declaration at line 964.(Æ±½èùÿÿÿÿH€5RMAJORZ
+CODE_SMELL
+…javascript:S2814Ö"MRename "exoneracion" as this name is already used in declaration at line 964.(×“®ıúÿÿÿÿH5RMAJORZ
+CODE_SMELL
+€javascript:S2814Ú"MRename "exoneracion" as this name is already used in declaration at line 964.(ˆŠ¢÷H‚5RMAJORZ
+CODE_SMELL
+€javascript:S2814Ş"MRename "exoneracion" as this name is already used in declaration at line 964.(ÄËşÈHƒ5RMAJORZ
+CODE_SMELL
+‘javascript:S2814ü"YRename "exoneracionDiscapacidad" as this name is already used in declaration at line 372.(Ç¯ê«øÿÿÿÿH„5RMAJORZ
+CODE_SMELL
+‘javascript:S2814‰"YRename "exoneracionDiscapacidad" as this name is already used in declaration at line 372.(Ç¯ê«øÿÿÿÿH…5RMAJORZ
+CODE_SMELL
+vjavascript:UnusedVariable²
+"5Remove the declaration of the unused 'data' variable.(“…³ŠûÿÿÿÿH†5RMINORZ
+CODE_SMELL
+ojavascript:S1854²
+"7Remove this useless assignment to local variable "data"(“…³ŠûÿÿÿÿH‡5RMAJORZ
+CODE_SMELL

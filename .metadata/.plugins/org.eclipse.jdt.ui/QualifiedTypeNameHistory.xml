@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.todo1.imp.bolp.bancolombia.txbeans.AvanceTarjetaHluTxBean"/>
+<fullyQualifiedTypeName name="com.todo1.imp.bolp.bancolombia.beans.CreditCardForActiveHlu"/>
+<fullyQualifiedTypeName name="com.todo1.imp.bolp.bancolombia.txbeans.CostAdvanceCardHluTxBean"/>
+<fullyQualifiedTypeName name="com.todo1.imp.bolp.bancolombia.txbeans.ActiveCreditCardServicesHluTxBean"/>
+<fullyQualifiedTypeName name="com.todo1.imp.bolp.bancolombia.txbeans.ActiveCreditCardConfirmHluTxBean"/>
+<fullyQualifiedTypeName name="com.todo1.imp.bolp.bancolombia.txbeans.ActiveCreditCardConfirmTxBean"/>
+<fullyQualifiedTypeName name="com.todo1.imp.bolp.bancolombia.beans.persistent.UserUpdateDataCampaignHluBean"/>
+<fullyQualifiedTypeName name="com.todo1.imp.bolp.bancolombia.txbeans.UserUpdateDataCampaignHluTxBean"/>
+<fullyQualifiedTypeName name="es.pildoras.IoC.JefeEmpleado"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Scope"/>
+<fullyQualifiedTypeName name="javax.annotation.PostConstruct"/>
+<fullyQualifiedTypeName name="javax.annotation.PreDestroy"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+<fullyQualifiedTypeName name="es.pildoras.pruebaannotations.EmpleadosConfig"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="es.pildoras.pruebaannotations.Empleados"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Value"/>
+<fullyQualifiedTypeName name="es.pildoras.pruebaannotations.DirectorFinanciero"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.PropertySource"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.ui.Model"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="com.pruebas.Alumno"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ModelAttribute"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Size"/>
+<fullyQualifiedTypeName name="org.springframework.validation.BindingResult"/>
+<fullyQualifiedTypeName name="javax.validation.Valid"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Min"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Max"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.Email"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,13 @@
+
+Šsquid:S00116"]Rename this field "TypeAccountAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ­ˆH©1RMINORZ
+CODE_SMELL
+squid:S00116ƒ"ZRename this field "TypeLoanAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¥˜ËùÿÿÿÿHª1RMINORZ
+CODE_SMELL
+squid:S00116…"`Rename this field "TypeCreditCardAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–òÒ÷H«1RMINORZ
+CODE_SMELL
+•squid:S00116"aRename this field "TypeAccountSaveAddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•şšùÿÿÿÿH¬1RMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(¦Ù¥ıÿÿÿÿH­1RINFOZ
+CODE_SMELL
+±squid:S1186Ö"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëêüH®1RCRITICALZ
+CODE_SMELL

@@ -1,0 +1,19 @@
+
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(á£àĞÿÿÿÿÿ8İªÑ½¬-HâRMAJORZ
+CODE_SMELL
+Œsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¶³Úúÿÿÿÿ8»ÆÀ½¬-HãRMINORZ
+CODE_SMELL
+Œsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şõ¶–úÿÿÿÿ8»ÆÀ½¬-HäRMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(¹²ÊÛÿÿÿÿÿ8’Ä¶¾­-HåRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦‘¡æøÿÿÿÿ8»ÆÀ½¬-HæRMAJORZ
+CODE_SMELL
+r
+squid:S106"9Replace this use of System.out or System.err by a logger.(á£àĞÿÿÿÿÿ8»ÆÀ½¬-HçRMAJORZ
+CODE_SMELL
+m
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª¥—Ô8İªÑ½¬-HèRMAJORZ
+CODE_SMELL

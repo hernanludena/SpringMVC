@@ -1,0 +1,61 @@
+
+squid:S1192»"IDefine a constant instead of duplicating this literal "NICKNAME" 4 times.(»Ãœ¥ûÿÿÿÿHçRCRITICALZ
+CODE_SMELL
+‚squid:S1192É"LDefine a constant instead of duplicating this literal " SESSIONID:" 4 times.(ß°ÿ¢ùÿÿÿÿHèRCRITICALZ
+CODE_SMELL
+Wsquid:S1905Ö")Remove this unnecessary cast to "String".(Ç³ž¨HéRMINORZ
+CODE_SMELL
+lsquid:S1155Œ">Use isEmpty() to check whether the collection is empty or not.(Ð¢á¼HêRMINORZ
+CODE_SMELL
+€squid:ModifiersOrderCheck4"EReorder the modifiers to comply with the Java Language Specification.(±¬üåHëRMINORZ
+CODE_SMELL
+~squid:CommentedOutCodeLineª"<This block of commented-out lines of code should be removed.(š×—³ÿÿÿÿÿHìRMAJORZ
+CODE_SMELL
+lsquid:S1118!":Add a private constructor to hide the implicit public one.(ÁîºøÿÿÿÿHíRMAJORZ
+CODE_SMELL
+”squid:S4165Ç"fRemove this useless assignment; "strResul" already holds the assigned value along all execution paths.(—ÔÓäHîRMAJORZ
+CODE_SMELL
+ˆsquid:S1192Œ"RUse already-defined constant 'BANK_SESSION' instead of duplicating its value here.(ýÏú–þÿÿÿÿHïRCRITICALZ
+CODE_SMELL
+„squid:S1192É"NDefine a constant instead of duplicating this literal " BANKSESSION:" 4 times.(ß°ÿ¢ùÿÿÿÿHðRCRITICALZ
+CODE_SMELL
+Vsquid:S1125ƒ"(Remove the literal "true" boolean value.(ç™ƒ²HñRMINORZ
+CODE_SMELL
+[squid:S1125¨"(Remove the literal "true" boolean value.(¦¦à‘ýÿÿÿÿHòRMINORZ
+CODE_SMELL
+squid:S1192È"KDefine a constant instead of duplicating this literal " NICKNAME:" 4 times.(ÍßøÁùÿÿÿÿHóRCRITICALZ
+CODE_SMELL
+–squid:S4144"cUpdate this method so that its implementation is not identical to "verifySizeBankList" on line 661.(‘“÷ÉûÿÿÿÿHôRMAJORZ
+CODE_SMELL
+squid:S1192È"IDefine a constant instead of duplicating this literal " CEDULA:" 4 times.(ÍßøÁùÿÿÿÿHõRCRITICALZ
+CODE_SMELL
+ksquid:S1155—">Use isEmpty() to check whether the collection is empty or not.(ÜÞÑNHöRMINORZ
+CODE_SMELL
+tsquid:UnusedPrivateMethod"9Remove this unused private "checkGroupFiduciaria" method.(ñ’¢H÷RMAJORZ
+CODE_SMELL
+€squid:S3008#"NRename this field "UPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âßï÷ûÿÿÿÿHøRMINORZ
+CODE_SMELL
+€squid:S1871ì"MThis branch's code block is the same as the block for the branch on line 489.(ÙéÈøÿÿÿÿHùRMAJORZ
+CODE_SMELL
+Vsquid:S1125À"(Remove the literal "true" boolean value.(“…§¦HúRMINORZ
+CODE_SMELL
+Wsquid:S1905ô")Remove this unnecessary cast to "String".(Ç³ž¨HûRMINORZ
+CODE_SMELL
+squid:S1192¬"NDefine a constant instead of duplicating this literal "bankSession: " 6 times.(Õ·ï˜HüRCRITICALZ
+CODE_SMELL
+[squid:S1125•"(Remove the literal "true" boolean value.(÷Å¶£üÿÿÿÿHýRMINORZ
+CODE_SMELL
+Wsquid:S1905½")Remove this unnecessary cast to "String".(Ç³ž¨HþRMINORZ
+CODE_SMELL
+qsquid:S1155‘">Use isEmpty() to check whether the collection is empty or not.(¤ÄùÿÿÿÿHÿRMINORZ
+CODE_SMELL
+[squid:S1125"(Remove the literal "true" boolean value.(®”‘£ûÿÿÿÿH€RMINORZ
+CODE_SMELL
+[squid:S1125ª"(Remove the literal "true" boolean value.(õµ¸®þÿÿÿÿHRMINORZ
+CODE_SMELL
+ksquid:S1155Ÿ">Use isEmpty() to check whether the collection is empty or not.(ÜÞÑNH‚RMINORZ
+CODE_SMELL
+ˆsquid:S1192È"RDefine a constant instead of duplicating this literal "[ERROR]AVANCE_TC]" 4 times.(ÍßøÁùÿÿÿÿHƒRCRITICALZ
+CODE_SMELL
+Wsquid:S1905 ")Remove this unnecessary cast to "String".(Ç³ž¨H„RMINORZ
+CODE_SMELL

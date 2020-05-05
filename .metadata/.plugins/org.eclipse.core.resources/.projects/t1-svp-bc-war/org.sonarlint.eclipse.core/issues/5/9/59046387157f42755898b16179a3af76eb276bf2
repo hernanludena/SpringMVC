@@ -1,0 +1,7 @@
+
+’squid:UselessImportCheck"XRemove this unused import 'com.todo1.imp.bolp.bancolombia.txbeans.TarjetaCreditoTxBean'.(ÂËâıH¡RMINORZ
+CODE_SMELL
+[squid:S1905B")Remove this unnecessary cast to "String".(Û®Å¦ÿÿÿÿÿH RMINORZ
+CODE_SMELL
+squid:UselessImportCheck"PRemove this unused import 'com.todo1.imp.bolp.bancolombia.beans.TarjetaCredito'.(”¾ÒÀøÿÿÿÿH¢RMINORZ
+CODE_SMELL
