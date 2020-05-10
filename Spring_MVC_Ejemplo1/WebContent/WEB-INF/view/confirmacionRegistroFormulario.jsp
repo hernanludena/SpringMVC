@@ -8,7 +8,11 @@
 </head>
 <body>
 
-El alumno <strong>${elAlumno.nombre}</strong> y apellido <strong>${elAlumno.apellido} </strong> , edad <strong>${elAlumno.edad}</strong> y email <strong>${elAlumno.email}</strong>,  se ha registrado con exito.
+El alumno <strong>${elAlumno.nombre}</strong> y apellido <strong>${elAlumno.apellido} </strong> ,
+ edad <strong>${elAlumno.edad}</strong> 
+ ,E-mail <strong>${elAlumno.email}</strong>,  
+ y C. Postal <strong>${elAlumno.codigoPostal}</strong>  
+ se ha registrado con exito.
 <br/>
 La asignatura escogida es: <strong>${elAlumno.optativa}</strong>
 <br/>

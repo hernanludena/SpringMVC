@@ -4,6 +4,7 @@ import javax.validation.constraints.Email;
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
 import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Pattern;
 import javax.validation.constraints.Size;
 
 public class Alumno {
@@ -24,7 +25,15 @@ public class Alumno {
 	@Email
 	private String email;
 	
+	@Pattern(regexp="[0-9]{5}",message="Solo 5 valores numericos")
+	private String codigoPostal;  //a-zA-Z
 	
+	public String getCodigoPostal() {
+		return codigoPostal;
+	}
+	public void setCodigoPostal(String codigoPostal) {
+		this.codigoPostal = codigoPostal;
+	}
 	public String getNombre() {
 		return nombre;
 	}
